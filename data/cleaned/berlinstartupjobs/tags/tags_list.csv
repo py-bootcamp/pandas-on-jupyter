@@ -52,15 +52,18 @@ tag_id,tag_name
 612,analytics
 31,uxui
 520,frontend-development
+301,business-development
+662,account-management
+282,backend
+377,c
+3061,ios-developer
 133,git
 4422,systemadministration
 1816,development
-282,backend
 4016,angular
 1562,mssql
 523,r
 3541,woocommerce
-377,c
 295,ecommerce
 1396,senior-developer
 2116,engineer
@@ -123,6 +126,10 @@ tag_id,tag_name
 1305,crm
 1745,digital
 1614,google-cloud
+2254,innovation
+762,project-management
+2983,golang
+890,nagios
 2434,cloudformation
 2035,mobile-development
 891,nodejs
@@ -179,6 +186,8 @@ tag_id,tag_name
 1817,strategy
 4273,react-js
 3500,full-stack
+2902,customer-success
+6690,blockchain
 2526,ec2
 16302,gce
 3259,music-streaming
@@ -206,7 +215,6 @@ tag_id,tag_name
 3217,software-tester
 21116,big-data-visualization
 7022,bigquery
-2983,golang
 1516,angular-js
 1447,agile-development
 3542,ios-sdk
@@ -239,10 +247,12 @@ tag_id,tag_name
 380,zend
 3898,apis
 2088,analyst
+17437,ethereum
+19323,javascipt
+16650,engineering
 16969,java8
 5998,rxjava
 15049,es6
-16650,engineering
 6626,ionic
 2099,hardware
 4213,rdbms
@@ -272,7 +282,6 @@ tag_id,tag_name
 6329,hdfs
 15365,hybrid
 6876,service-desk
-762,project-management
 3824,chief-technology-officer
 15379,qunit
 21301,game-studio
@@ -282,6 +291,8 @@ tag_id,tag_name
 15367,framework
 16670,apex
 21335,feathers
+20957,solidity
+20843,software-entwicklung
 17170,devop
 2001,music
 20802,spring-cloud
@@ -302,6 +313,7 @@ tag_id,tag_name
 21315,signalr
 16672,visualforce
 3016,jsp
+21342,javescript
 17285,aws-infrastructure
 21200,netflix-stack
 1656,jenkins
